@@ -6,7 +6,7 @@ import org.vertx.java.core.net.NetSocket;
 import rx.Observable;
 import rx.Observer;
 import rx.Subscription;
-import rx.util.functions.Func1;
+import rx.functions.Func1;
 
 
 /*
